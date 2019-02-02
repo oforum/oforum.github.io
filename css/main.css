@@ -12,6 +12,21 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
+/* Left-aligned section inside the top navigation */
+.topnav-left {
+  float: left;
+}
+
+/* Center-aligned section inside the top navigation
+.topnav-center {
+  float: center;
+}
+*/
+
+/* Right-aligned section inside the top navigation */
+.topnav-right {
+  float: right;
+}
 a {
     text-decoration: none;
     color: #999;
