@@ -4,9 +4,9 @@ title: About OForum
 ---
 # About OForum
 
-OForum, short for *Områdesföreningen Forum*, is the *local area association* (områdesförening) for the Forum buildings at Körsbärsvägen 2 & 4 in Stockholm.
+OForum, short for *Områdesföreningen Forum*, is the *tenant association* (områdesförening) for the Forum buildings at Körsbärsvägen 2 & 4 in Stockholm.
 
-Forum is student housing, the landlord is SSSB. Their information about Forum is available [here](https://www.sssb.se/en/our-housing/our-areas-in-the-city/forum/).
+Forum is student housing, the landlord is SSSB. See SSSB's [page about Forum](https://www.sssb.se/en/our-housing/our-areas-in-the-city/forum/). OForum is connected to [SSF](http://ssfstudent.se/), an umbrella organization for several student tenant associations in Stockholm.
 
 OForum is by students at Forum for students at Forum. In addition to providing facilities (see menu above), we are a link between SSSB and the tenants. Our goal is to improve the living situation at Forum.
 
