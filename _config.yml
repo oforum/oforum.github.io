@@ -1,4 +1,6 @@
 name: OForum
 markdown: kramdown
 
+header: images/IMAGE-NAME.png
+
 permalink: /blog/:year/:month/:day/:title
