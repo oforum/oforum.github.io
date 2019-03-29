@@ -12,12 +12,20 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
-.masterhead {
-    background: url("/images/OForum website banner.png");
-    background-size: cover;
-    margin: 0 auto;
-    padding: 1000px;
-    color: white;
+header {
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: space-around;
+    align-items: center;
+    align-content: space-around;
+}
+.backimage {
+    background-image: url("/images/OForum website banner.png");
+    background-repeat: no-repeat;
+    border: 1px solid blue;
+    width: 500px;
+    height: 300px;
+    order:2;
 }
 a {
     text-decoration: none;
